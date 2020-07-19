@@ -3473,17 +3473,3 @@ personObj.print();
 Object.prototype.name="Steve";
 personObj.getName2();
 ```
-
-
-## Contributing
-
-We always appreciate your feedback on how the book can be improved, and more questions can be added. If you think you have some question then please add that and open a pull request. 
-
-
-## License
-
-This book is released under a Creative Commons Attribution-Noncommercial- No Derivative Works 3.0 United States License.
-
-What this means it that the project is free to read and use, but the license does not permit commercial use of the material (i.e you can freely print out the questions for your own use, but you can't sell it). I'm trying to best to publish all of my books in a free + purchased (if you would like to support these projects) form so I would greatly appreciate it if you would respect these terms.
-
-Copyright Iurii Katkov and Javascript Kumar, 2017.
